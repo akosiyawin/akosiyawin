@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Hahahahaha
 -->
 
-- 🔭 I’m currently working on Trycatch IT Solution For Business as a project based, It's a small IT Firm in our province, with  solid and great team behind.
+- 🔭 I’m currently working on Trycatch IT Solution For Business as a project based software engineer, It's a small IT Firm in our province, with  solid and great team behind.
 - 🌱 I’m currently learning and improving my skills on Laravel, Vue JS, Flutter, and Tailwind (and some OpenCV (python), etc.). 
 - 👯 I’m looking to collaborate on anything that includes Internet Of Things (IOT), Information Systems, Game Development (Preferrably using Web Stacks/Technologies).
 - 🤔 I’m looking for help with improving my skills on communication and team management.
