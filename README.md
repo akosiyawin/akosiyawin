@@ -41,11 +41,11 @@
 
 
 <br>
-<center>
+<p align="center">
   <p>GitHub Trophies 🏆</p>
   <br>
   <img src="https://github-profile-trophy.vercel.app/?username=akosiyawin&theme=tokyonight"/>
-</center>
+</p>
 
 <br>
 <!-- 
