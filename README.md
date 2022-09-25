@@ -19,30 +19,26 @@
 
 ### My Github Stats:
 <p align="center">
-<table>
+<table align="center">
 <tr>
 <td><img src="https://github-readme-stats.vercel.app/api?username=akosiyawin&count_private=true&show_icons=true&theme=tokyonight" /></td>
 <td><img src="https://github-readme-streak-stats.herokuapp.com?user=akosiyawin&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" /></td>
 </tr>
 </table>
-
-<center>
-<a href="https://www.linkedin.com/in/akosiyawin/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akosiyawin&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl" />
-</a>
-</center>
-
-<br>
-<br>
-
-
-
-<a href="http://www.github.com/akosiyawin"><img src="https://activity-graph.herokuapp.com/graph?username=akosiyawin&theme=xcode" alt="GitHub Commits Graph" />
-
-
-</a>
- 
 </p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akosiyawin&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl" />
+</p>
+
+<br>
+
+
+<p align="center">
+<a href="http://www.github.com/akosiyawin"><img src="https://activity-graph.herokuapp.com/graph?username=akosiyawin&theme=xcode" alt="GitHub Commits Graph" />
+</a>
+</p>
+
 
 <br>
 <center>
