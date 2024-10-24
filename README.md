@@ -1,7 +1,7 @@
 <h1><img src="https://slackmojis.com/emojis/10521-meow_code/download" width="30"/> Hey, Nice to see you.</h1>
 
 
-- 🔭 I’m currently working in [Yoonet](https://www.yoonet.io/) as a Programmer to an Australian based client.
+- 🔭 I’m a Full Stack Developer with in-depth knowledge on Automations, iOS and Android development, AI Data Embeddings, and Web Apps.
 - 🔭 I worked on Trycatch IT Software Solution For Business as a project-based full stack developer, It's a small IT Firm in our province, with a solid and great team behind it.
 - 🌱 I’m currently learning and improving my skills on Utelogy, Driver Development, C#, Laravel, Vue JS, Flutter, Android Native, and Tailwind (and some OpenCV (python), etc.). 
 - 👯 I’m looking to collaborate on anything that includes Internet Of Things (IOT), Information Systems, Game Development (Preferrably using Web Stacks/Technologies).
@@ -9,7 +9,7 @@
 - 💬 Ask me about Web Technologies/Stacks/Frameworks
 - 📫 How to reach me: akosiyawin@gmail.com. Reach me on my email to get my phone number or to invite me in a project development. I will reply asap.
 - 😄 Pronouns: He, His
-- ⚡ Fun fact: later...
+- ⚡ Fun fact: I love proscratinating after work is done...
 
 ### Tools I work upon : 🛠
 
